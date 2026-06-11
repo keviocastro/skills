@@ -1,3 +1,7 @@
+---
+name: pr-review-resolver
+description: Analisa os comentários de revisão de código de um PR/MR e implementa as correções necessárias, fazendo commit e push para cada tarefa.
+---
 # PR/MR Review Resolver Skill
 
 ## Descrição
